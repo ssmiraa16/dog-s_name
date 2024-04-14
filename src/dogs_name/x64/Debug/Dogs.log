@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\megam\source\repos\Dogs\MyForm.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Dogs.vcxproj -> C:\Users\megam\source\repos\Dogs\x64\Debug\Dogs.exe

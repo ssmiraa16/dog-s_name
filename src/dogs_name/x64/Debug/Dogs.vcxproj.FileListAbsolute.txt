@@ -1,0 +1,5 @@
+C:\Users\megam\source\repos\Dogs\x64\Debug\Dogs.vcxproj.AssemblyReference.cache
+C:\Users\megam\source\repos\Dogs\x64\Debug\Dogs.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\megam\source\repos\Dogs\x64\Debug\Dogs.exe
+C:\Users\megam\source\repos\Dogs\x64\Debug\Dogs.MyForm.resources
+C:\Users\megam\source\repos\Dogs\x64\Debug\Dogs.vcxproj.GenerateResource.cache
